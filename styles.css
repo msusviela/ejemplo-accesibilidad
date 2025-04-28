@@ -1,6 +1,6 @@
 body {
     background-color: #f5f5f5;
-    color: #aaa; /* Problema de contraste insuficiente */
+    color: #aaa; 
     font-family: Arial, sans-serif;
 }
 
@@ -10,7 +10,6 @@ h1 {
 }
 
 .container {
-    width: 80%;
     margin: 0 auto;
 }
 
@@ -33,4 +32,8 @@ h1 {
 
 .contraste-bajo {
     color: #ccc;
+}
+
+* {
+    padding: 5px;
 }
