@@ -33,3 +33,5 @@ La página web incluye varios problemas de accesibilidad que pueden ser detectad
 - Corregir la jerarquía de los encabezados para asegurar que siguen una estructura lógica (`h3` en lugar de `h4` después de un `h2`).
 - Mejorar el contraste entre el texto y el fondo
 - No modificar colores desde un archivo HTML. Hacerlo desde el archivo .css
+
+> En la rama develop se encuentra una posible solución :)
